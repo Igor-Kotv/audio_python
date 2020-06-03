@@ -1,4 +1,4 @@
-# audio_python
+# Audio Python
 **Audio processing in Python**
 
 **1) A simple program for audio file size astimation.**
