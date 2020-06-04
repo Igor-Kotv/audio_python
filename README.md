@@ -1,19 +1,19 @@
 # Audio Python
 **Audio processing in Python**
 
-**1) A simple program for audio file size astimation.**
+This is a simple program for audio file size astimation.
 
-You use it as a function:
+***You use it as a function:***
 
-filesize_fun(sr, rms, T, nCh)
+*filesize_fun(sr, rms, T, nCh)*
 
-sr - Sampling frequency
+sr - sampling frequency
 
-rms - Audio level (dBFS)
+rms - level (dBFS)
 
 T - audio duration (seconds)
 
-Or use it as a console utility: 
+***Or use it as a console utility:***
 
-python3 audiofilesize.py
+*python3 audiofilesize.py*
 
